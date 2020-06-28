@@ -27,7 +27,7 @@ class App extends Component {
         <ul>
           <li>
             <button onClick={() => this.props.changeSource("TENGRI")}>
-              TengriNews
+              TengriNewsы
             </button>
           </li>
           <li>
